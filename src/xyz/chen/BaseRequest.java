@@ -10,6 +10,11 @@ public class BaseRequest {
 
     private Integer serialNo;
 
+    public static void foo() {
+        // 在此处填写代码
+
+    }
+
     public Integer getSerialNo() {
         return serialNo;
     }
