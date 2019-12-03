@@ -8,6 +8,16 @@ package xyz.chen;
 public class BaseRequest {
     private String uid;
 
+    private Integer serialNo;
+
+    public Integer getSerialNo() {
+        return serialNo;
+    }
+
+    public void setSerialNo(Integer serialNo) {
+        this.serialNo = serialNo;
+    }
+
     public String getUid() {
         return uid;
     }
