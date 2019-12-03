@@ -12,7 +12,7 @@ public class BaseRequest {
 
     public static void foo() {
         // 在此处填写代码
-
+        String str = "在staging2分支添加了代码";
     }
 
     public Integer getSerialNo() {
