@@ -10,4 +10,5 @@ package xyz.chen;
  * 添加新的特性
  */
 public class NewFeature01 {
+    public static final String USER_ID = "123";
 }
