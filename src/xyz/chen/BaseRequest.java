@@ -13,7 +13,7 @@ public class BaseRequest {
     public static void foo() {
         // 在此处填写代码
         String str = "在staging2分支添加了代码233";
-        String str2 = "在dev分支添加了代码233";
+        String str2 = "在dev分支添加了代码23322";
     }
 
     public Integer getSerialNo() {
